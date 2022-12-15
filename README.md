@@ -44,8 +44,8 @@ It looks like we have quite a few nulls in the themes data set under the column 
 Looks like our data is definetly skewed right, towards more recent years. There might be an outlier or two, but that data is significant in this instance, as it represents the first LEGO sets ever made. 
 
 Visualize the Data:
-1. Import CSVs into Tableau Public, link the data sources, create a dashboard with vizualizations
+1. Import CSVs into Tableau Public, link the data sources, create a dashboard with visualizations
 
-![image](https://user-images.githubusercontent.com/68393151/207811244-978e24d8-8f71-44fa-86b4-094f4dabcced.png)
+![image](https://user-images.githubusercontent.com/68393151/207949810-a376ecaa-0339-45b9-9c4c-08fb7bd55187.png)
 
 https://public.tableau.com/views/LEGOKaggleAnalysis/LEGOKaggleAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
